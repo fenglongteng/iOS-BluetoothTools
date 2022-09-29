@@ -20,6 +20,9 @@
 @property (nonatomic, strong) CBService *service;//当前服务
 
 
+
+
+
 @end
 
 @implementation YFXBluetoothManager
